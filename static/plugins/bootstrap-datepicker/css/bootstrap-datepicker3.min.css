@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="tr">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <title>404 - Geçersiz İstek</title>
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <meta name="robots" content="noindex, nofollow">
+    <meta property="og:title" content="">
+    <meta property="og:site_name" content="">
+    <meta property="og:description" content="">
+    <meta property="og:type" content="">
+    <meta property="og:url" content="">
+    <meta property="og:image" content="">
+
+    <link rel="shortcut icon" href="/static/media/favicons/favicon.png">
+    <link rel="icon" type="image/png" sizes="192x192"
+        href="/static/media/favicons/favicon-192x192.png">
+    <link rel="apple-touch-icon" sizes="180x180"
+        href="/static/media/favicons/apple-touch-icon-180x180.png">
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap">
+    <link rel="stylesheet" id="css-main" href="/static/css/rwui.min.css">
+
+</head>
+
+<body>
+    <div id="page-container">
+        <main id="main-container">
+            
+<div class="bg-image-rw" style="background-image: url('/static/media/errors/404.jpg');">
+  <div class="bg-primary-dark-op">
+      <div class="hero-static d-flex align-items-center">
+          <div class="w-100">
+              <div class="content content-full">
+                  <div class="row justify-content-center">
+                      <div class="col-md-8 col-lg-6 col-xl-4 py-6">
+                          <div class="text-center">
+                              <h1 class="fa-7x mb-1">
+                                  404
+                              </h1>
+                              <h2 class="fa-2x fw-normal text-updt mb-3">
+                                  Geçersiz İstek
+                              </h2>
+                              <p><a href="/">Ana sayfaya dönmek için tıklayınız.</a></p>
+                          </div>
+                          <div class="fs-sm text-center text-updt py-3">
+                              <strong>RWAZONE</strong> © <span data-toggle="year-copy"
+                                  class="js-year-copy-enabled">2022</span>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+          </div>
+      </div>
+  </div>
+</div>
+
+        </main>
+    </div>
+    <script src="/static/js/rwui.app.min.js"></script>
+</body>
+</html>
